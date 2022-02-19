@@ -9,4 +9,5 @@ Finally, for you to understand how all the pages/files works, yo umust follow th
 Due to practice basics skills, the pages are about:
 
 1st - Favorite tv-show, showing up a content in the middle of the page with some multimedia stuff, such as a slide and a couple of pictures.
+
 2nd - Centroamérica's countries, exposing the best of the five principl countries in Central America.

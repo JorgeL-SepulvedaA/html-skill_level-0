@@ -1,0 +1,101 @@
+#principalLayerSal{
+    border-radius: 10px;
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("https://www.theintrepidguide.com/wp-content/uploads/2018/11/Latin-America-Spanish-Travel-Phrase-Guide.jpg");
+    background-size: 100%;
+}
+
+#principalLayerGua{
+    border-radius: 10px;
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("https://legacy.travelnoire.com/wp-content/uploads/2019/04/GettyImages-1045348536.jpg");
+    background-size: 100%;
+}
+
+#principalLayerHon{
+    border-radius: 10px;
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/caminito_street_buenos_aires.jpg?itok=K1blxdUY");
+    background-size: 100%;
+}
+
+#principalLayerNic{
+    border-radius: 10px;
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("https://www.telegraph.co.uk/content/dam/travel/2021/10/07/TELEMMGLPICT000273828101_trans_NvBQzQNjv4BqX7pHcCCmtgwidDdHSvx2cNMeI54HFiZ4-Gy7RUYM7MQ.jpeg");
+    background-size: 100%;
+}
+
+#principalLayerPan{
+    border-radius: 10px;
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("https://theculturetrip.com/wp-content/uploads/2017/05/shutterstock_543332395-by-barna-tanko.jpg");
+    background-size: 100%;
+}
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+fieldset{
+    border-radius: 20px;
+    width: 60%;
+    height: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    padding: 5px;
+    background-color: white;
+}
+
+legend{
+    border-radius: 10px;
+    border: solid 4px #343a40;
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    padding: 5px;
+    background-color: white;
+}
+
+header{
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-color: white;
+}
+
+footer{
+    margin-top: 3%;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    background-color: white;
+}
+
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-color: white;
+}

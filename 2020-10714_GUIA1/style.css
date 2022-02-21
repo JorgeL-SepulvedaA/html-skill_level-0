@@ -1,0 +1,75 @@
+sup {
+    vertical-align: super;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+fieldset{
+    border-radius: 20px;
+    width: 60%;
+    height: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    padding: 5px;
+    background-color: white;
+}
+
+legend{
+    border-radius: 10px;
+    border: solid 4px #343a40;
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    padding: 5px;
+    background-color: white;
+}
+
+header{
+    border-radius: 10px;
+    margin-top: 3%;
+    width: 80%;
+    height: 60%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    padding: 5px;
+    background-color: white;
+}
+
+footer{
+    border-radius: 10px;
+    margin-top: 3%;
+    width: 80%;
+    height: 60%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding: 5px;
+    background-color: white;
+}
+
+body{
+    border-radius: 10px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("https://www.trecebits.com/wp-content/uploads/2017/12/Juegos-Android.jpg");
+    background-size: 100%;
+}
+
+#principalLayer{
+    border-radius: 10px;
+    margin-top: 3%;
+    width: 90%;
+    height: 60%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    padding: 5px;
+}
+
+#introLayer{
+    border-radius: 10px;
+    margin-top: 3%;
+    width: 90%;
+    height: 60%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    padding: 5px;
+}
